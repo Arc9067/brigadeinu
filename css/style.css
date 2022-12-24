@@ -1109,7 +1109,7 @@ input[type="radio"] {
 }
 
 .backtotop:hover i {
-  background: #e50914;
+  background: #debb20;
   color: white;
 }
 
@@ -1149,7 +1149,7 @@ input[type="radio"] {
 
 .main-btn:hover {
   color: #fff;
-  background: #bf000a;
+  background: #ecc61c;
   cursor: pointer;
 }
 
